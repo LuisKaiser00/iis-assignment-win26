@@ -1,0 +1,4 @@
+Assignment 1: 3.25/3.3
+
+- Contact depth can be perceived with some sensors, but we want to know it before the grasp is even performed. This means we want a predictive model of it in the SDT.
+- The battery drain predictive model should go into the SDT not warrant gate.
